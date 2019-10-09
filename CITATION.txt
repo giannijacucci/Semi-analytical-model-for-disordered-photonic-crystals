@@ -1,0 +1,13 @@
+If you use this code for any published work, please cite it using the reference
+below:
+
+@article{FELLER20193101,
+title = "Long-Wavelength Reflecting Filters Found in the Larval Retinas of One Mantis Shrimp Family (Nannosquillidae)",
+journal = "Current Biology",
+volume = "29",
+number = "18",
+pages = "3101 - 3108.e4",
+year = "2019",
+issn = "0960-9822",
+doi = "https://doi.org/10.1016/j.cub.2019.07.070"
+}
